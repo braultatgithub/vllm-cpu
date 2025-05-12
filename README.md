@@ -13,7 +13,7 @@ This kickstart includes a Helm chart for deploying:
 
 - An OpenShift AI Project.
 - vLLM with CPU support running an instance of TinyLlama.
-- AnythingLLM (a versitile chat interface) running as a workbench and connected to the vLLM.
+- AnythingLLM (a versatile chat interface) running as a workbench and connected to the vLLM.
 
 Use this project to quickly spin up a minimal vLLM instance and start serving models like TinyLlama on CPU—no GPU required. 🚀
 
